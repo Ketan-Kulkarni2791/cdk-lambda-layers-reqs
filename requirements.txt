@@ -1,0 +1,6 @@
+aws_cdk.core==1.138.1
+aws_cdk.aws_lambda==1.138.1
+aws_cdk.aws_iam==1.138.1
+aws_cdk.aws_logs==1.138.1
+aws_cdk.aws_kms==1.138.1
+virtualenv
